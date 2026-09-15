@@ -1,0 +1,16 @@
+version: "1.0.0"
+
+description: "XC_GUI precompiled embedded GUI library for ESP32-S3 using ESP-IDF"
+
+url: "https://github.com/Gigasitron-xcross/XC_GUI_ESP-IDF"
+repository: "https://github.com/Gigasitron-xcross/XC_GUI_ESP-IDF.git"
+
+targets:
+  - esp32s3
+
+tags:
+  - gui
+  - display
+  - lcd
+  - tft
+  - st7789
